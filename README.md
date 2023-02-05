@@ -85,4 +85,4 @@
 </a>
 
 <h2 align="center">🔥 Skake eating contribution 🔥</h2>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/FromSunNews/FromSunNews/blob/output/github-contribution-grid-snake.gif)
