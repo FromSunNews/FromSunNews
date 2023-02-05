@@ -85,4 +85,4 @@
 </a>
 
 <h2 align="center">🐍 Snake Eating My Contribution 🐍</h2>
-<img src="https://github.com/FromSunNews/FromSunNews/blob/output/github-contribution-grid-snake.gif" width="1200" alt="fromsunnews-img" />
+<img src="https://github.com/FromSunNews/FromSunNews/blob/output/github-contribution-grid-snake.svg" width="1200" alt="fromsunnews-img" />
