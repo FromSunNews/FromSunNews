@@ -81,10 +81,8 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/fromsunnews-quotes.svg" width="846" height="150" alt="fromsunnews-quotes" />
+  <img src="svg/fromsunnews-quotes.svg" width="1200" height="150" alt="fromsunnews-quotes" />
 </a>
 
-<h2 align="center">🔥 Skake eating contribution 🔥</h2>
-
-![snake gif]
-(https://github.com/FromSunNews/FromSunNews/blob/output/github-contribution-grid-snake.gif)
+<h2 align="center">🐍 Snake Eating My Contribution 🐍</h2>
+<img src="https://github.com/FromSunNews/FromSunNews/blob/output/github-contribution-grid-snake.gif" width="1200" alt="fromsunnews-img" />
